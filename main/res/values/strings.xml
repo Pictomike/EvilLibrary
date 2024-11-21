@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RegisterLoginAuth</string>
+    <string name="login">Login</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="register">Register</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="logout">logout</string>
+    <string name="user_details">User Details</string>
+</resources>
